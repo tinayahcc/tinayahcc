@@ -1,4 +1,4 @@
-## Hey <img src="./src/gifs/hi.gif" width="29">, I'm Chayanit, Great to see you here!
+## Hey👋, I'm Chayanit, Great to see you here!
 <h3 align="left">PSM63 Engineering Artificial Intelligence (E-AI) Major</h3>
 
 ### About Me 🙂 
