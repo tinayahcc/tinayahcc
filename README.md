@@ -1,9 +1,8 @@
 ## Hey👋, I'm Chayanit, Great to see you here!
-<h3 align="left">PSM63 Engineering Artificial Intelligence (E-AI) Major</h3>
+<h3 align="left">A student at CEDT-Chula</h3>
 
 ### About Me 🙂 
 - 🌱 *I’m currently learning **Data science, Machine learning, Robotics and AI***
-- 💬 *Ask me about **Animated movies***
 - 📫 *How to reach me: **punch.nualnom@gmail.com***
 - ⚡ *Trying and **exploring** new stuff*
 ___
