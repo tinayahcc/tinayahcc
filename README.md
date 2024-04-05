@@ -1,6 +1,8 @@
 ## Hey👋, I'm Chayanit, Great to see you here!
 <h3 align="left">A student at CEDT-Chula</h3>
-<p>![EatingHungryGIF](https://github.com/tinayahcc/tinayahcc/assets/115986695/a224321b-6569-4d5e-9906-13737361f1ac)</p>
+
+
+![EatingHungryGIF](https://github.com/tinayahcc/tinayahcc/assets/115986695/a224321b-6569-4d5e-9906-13737361f1ac)
 
 ### About Me 🙂 
 - 🌱 *I’m currently learning **Data science, Machine learning, Robotics and AI***
@@ -23,4 +25,6 @@ ___
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tinayahcc&show_icons=true&locale=en&layout=compact" alt="tinayahcc" /></p>
-[Tinayahcc's github stats]: https://github-readme-stats.vercel.app/apiusername=tinayahcc&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dracula
+
+
+![Tinayahcc's github stats](https://github-readme-stats.vercel.app/api?username=tinayahcc&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dracula)
