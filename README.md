@@ -4,6 +4,7 @@
 
 ![EatingHungryGIF](https://github.com/tinayahcc/tinayahcc/assets/115986695/a224321b-6569-4d5e-9906-13737361f1ac)
 
+
 ### About Me 🙂 
 - 🌱 *I’m currently learning **Data science, Machine learning, Robotics and AI***
 - 📫 *How to reach me: **punch.nualnom@gmail.com***
