@@ -23,5 +23,4 @@ ___
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tinayahcc&show_icons=true&locale=en&layout=compact" alt="tinayahcc" /></p>
-<p>![Tinayahcc's GitHub stats](https://github-readme-stats.vercel.app/api?username=tinayahcc&show_icons=true)</p>
-
+[Tinayahcc's github stats]: https://github-readme-stats.vercel.app/apiusername=tinayahcc&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dracula
